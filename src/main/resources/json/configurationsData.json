@@ -1,0 +1,35 @@
+[
+	{
+		"amountOfWater": 11.50,
+		"irrigationTimeSlotLst": [
+			{
+				"irrigationTimeSlotName": "ITS_A1"
+			}
+		]
+	},
+	{
+		"amountOfWater": 5.50,
+		"irrigationTimeSlotLst": [
+			{
+				"irrigationTimeSlotName": "ITS_B1"
+			},
+			{
+				"irrigationTimeSlotName": "ITS_B2"
+			}
+		]
+	},
+	{
+		"amountOfWater": 6.50,
+		"irrigationTimeSlotLst": [
+			{
+				"irrigationTimeSlotName": "ITS_C1"
+			},
+			{
+				"irrigationTimeSlotName": "ITS_C2"
+			},
+			{
+				"irrigationTimeSlotName": "ITS_C3"
+			}
+		]
+	}
+]
